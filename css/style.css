@@ -1,0 +1,41 @@
+h1, h2 {
+	font-family: monospace;
+	text-align: center;
+	color: #ff8a1c;
+}
+
+h1:hover {
+	color: red;
+	cursor: pointer;
+}
+
+h2:hover {
+	color: red;
+	cursor: pointer;
+}
+
+h3 {
+	font-family: monospace;
+	font-size: 20px;
+	color: #e76bed;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+h3:hover {
+	color: white;
+}
+
+img {
+	margin: 10px auto 20px;
+	display: block;
+}
+
+body {
+	background-color: #454545;
+}
+
+footer {
+	position: relative;
+}
